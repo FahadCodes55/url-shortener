@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 30px;
+  font-weight: bold;
+  color: orange;
+
+}
+
+label{
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: blue;
+
+}
+
+.box{
+  width: 50%;
+  margin: 40px auto;
+  padding: 20px;
+  border: 0px solid #000;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  background: #eee;
+
+}
+button{
+  border: none;
+  padding: 10px 15px;
+  background: green;
+  color: white;
+  cursor: pointer;
+  margin-left: 300px;
+  border-radius: 5px;
+  font-weight: bold;
+}
